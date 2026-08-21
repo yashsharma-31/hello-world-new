@@ -5,7 +5,7 @@ To clone the hello-world-maven branch
 ```
 git clone -b hello-world-maven https://github.com/vigneshsweekaran/hello-world.git
 ```
-### To generate the package
+### To generate the package hello
 ```
 mvn clean package
 ```
